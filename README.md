@@ -4770,13 +4770,28 @@ https://www.bilibili.com/video/BV1VM41157U9/?spm_id_from=333.999.0.0
 
 暂时没有什么想说的。
 
+已经坚持了10期了，2023-05-14，纪念一下！
 
+也希望这档节目能越做越好。
 
 # 链接
 
 1 [后互联网时代的乱弹 | 声湃托管服务站点 (wavpub.cn)](https://hosting.wavpub.cn/pie/)
 
 2 [后互联网时代的乱弹 哔哩哔哩_bilibili](https://space.bilibili.com/760331)
+
+3 另一个听友同样在做的节目音频转文字仓库，https://github.com/joqk12345/Podcast-Subtitle
+
+key points:
+
+1. Whisper 是 OpenAI 推出的语音转换文字的人工智能工具包，支持很多种语言，目前本repo采用 OpenAI whisper large 模型。具体whisper详细内容请参考[Whisper](https://github.com/openai/whisper/)。
+2. Whisper Auto Transcribe，是一款字幕生成的开源项目，可以为 mp3 配上 “字幕”（srt、vtt 格式），详细内容请参考，[Whisper Auto Transcribe](https://github.com/tomchang25/whisper-auto-transcribe)。
+
+仓库内部导航为：
+
+https://github.com/joqk12345/Podcast-Subtitle/blob/main/pie-podcast-nav.md
+
+
 
 
 
