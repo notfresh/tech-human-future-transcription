@@ -1,5 +1,5 @@
 # 后互联网时代的乱弹
-<div><img src="https://pie.wetime.com/wp-content/uploads/2022/03/Icon-150x150.png"/></div>
+<div><img src="./images/pie-logo.jpg" width="200px"/></div>
 
 ## 说明
 
